@@ -4,6 +4,14 @@
 
 SQL • Python • Power BI • Data Engineering
 
+---
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=themanroshan&label=Profile%20Views&style=for-the-badge" />
+
+</p>
+
 ## About Me
 
 I build data-driven solutions across analytics,
@@ -65,16 +73,6 @@ End-to-end data ingestion and transformation pipeline.
 ### Data Analytics
 
 SQL • Power BI • Excel • DAX • Pandas • NumPy
-
----
-
-## Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=themanroshan&label=Profile%20Views&style=for-the-badge" />
-
-</p>
 
 ---
 
