@@ -1,6 +1,6 @@
 # Roshan Manjal
 
-### Data Analyst → Data Engineer
+### Data Analyst
 
 SQL • Python • Power BI • Data Engineering
 
@@ -8,11 +8,6 @@ SQL • Python • Power BI • Data Engineering
 
 I build data-driven solutions across analytics,
 business intelligence and data engineering.
-
-Currently focused on SQL, Python, Power BI,
-data modeling and ETL/ELT.
-
----
 
 ## Current Focus
 
@@ -24,21 +19,21 @@ data modeling and ETL/ELT.
 
 ## GitHub Analytics
 
-<!-- AUTO_STATS_START -->
+<p align="center">
 
-Loading...
+<img src="https://github-readme-stats.vercel.app/api?username=themanroshan&show_icons=true&hide_border=true" />
 
-<!-- AUTO_STATS_END -->
+</p>
 
 ---
 
 ## Contribution Activity
 
-<!-- AUTO_CONTRIBUTIONS_START -->
+<p align="center">
 
-Loading...
+<img src="https://streak-stats.demolab.com/?user=themanroshan&hide_border=true" />
 
-<!-- AUTO_CONTRIBUTIONS_END -->
+</p>
 
 ---
 
@@ -70,19 +65,23 @@ End-to-end data ingestion and transformation pipeline.
 ### Data Analytics
 
 SQL • Power BI • Excel • DAX • Pandas • NumPy
+
 ---
 
 ## Profile Views
 
-<!-- PROFILE_VIEWS -->
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=themanroshan&label=Profile%20Views&style=for-the-badge" />
+
+</p>
 
 ---
 
 ## Connect
 
-LinkedIn  
-Email
+[LinkedIn](https://www.linkedin.com/in/roshanm1675)
 
----
+[GitHub](https://github.com/themanroshan)
 
-<!-- LAST_UPDATED -->
+Email: roshan.y.manjal@gmail.com
