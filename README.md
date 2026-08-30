@@ -27,7 +27,7 @@ business intelligence and data engineering.
 
 ## GitHub Analytics
 
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=themanroshan&show_icons=true&hide_border=true" />
 
@@ -37,7 +37,7 @@ business intelligence and data engineering.
 
 ## Contribution Activity
 
-<p align="center">
+<p align="left">
 
 <img src="https://streak-stats.demolab.com/?user=themanroshan&hide_border=true" />
 
