@@ -63,28 +63,9 @@ Both were 1-month internships working on company-provided sales datasets.
 
 ## 🧰 Tech stack
 
-**Core (what I use most)**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-
-**Machine learning & forecasting**
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/Prophet-0A66C2?style=for-the-badge" alt="Prophet"/>
-<img src="https://img.shields.io/badge/SARIMA-6C757D?style=for-the-badge" alt="SARIMA"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Python, SQL, Pandas, NumPy, Power BI, Excel, scikit-learn, XGBoost, Prophet, SARIMA, Streamlit, Git"/>
+</p>
 
 <details>
 <summary><b>🌱 Learning / basic level</b> (click to expand)</summary>
