@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Roshan Manjal - Data Analyst in the making">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0b3b5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .name { font: 800 54px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .role { font: 600 22px 'Segoe UI', Arial, sans-serif; fill: url(#accent); }
+      .tag  { font: 400 15px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .bar  { fill: url(#accent); transform-box: fill-box; transform-origin: bottom; animation: grow 2.8s ease-in-out infinite; opacity: .9; }
+      .b2 { animation-delay: .25s } .b3 { animation-delay: .5s } .b4 { animation-delay: .75s }
+      .b5 { animation-delay: 1s }   .b6 { animation-delay: 1.25s }
+      @keyframes grow { 0%,100% { transform: scaleY(.35) } 50% { transform: scaleY(1) } }
+      .dot { fill: #38bdf8; opacity: .5; animation: float 6s ease-in-out infinite; }
+      .d2 { animation-delay: 1.5s; fill: #a78bfa } .d3 { animation-delay: 3s }
+      @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-14px) } }
+      .fade { animation: fadein 1.4s ease-out both; }
+      @keyframes fadein { from { opacity: 0; transform: translateX(-16px) } to { opacity: 1; transform: translateX(0) } }
+    </style>
+  </defs>
+  <rect width="900" height="260" rx="18" fill="url(#bg)"/>
+  <circle class="dot" cx="70" cy="45" r="7"/>
+  <circle class="dot d2" cx="420" cy="30" r="5"/>
+  <circle class="dot d3" cx="850" cy="70" r="6"/>
+  <g class="fade">
+    <text x="50" y="118" class="name">Roshan Manjal</text>
+    <text x="52" y="156" class="role">Data Analyst in the making</text>
+    <text x="52" y="188" class="tag">BE in AI &amp; Data Science · Python · SQL · Power BI · Forecasting</text>
+  </g>
+  <g transform="translate(650,60)">
+    <rect class="bar b1" x="0"   y="90" width="26" height="70"/>
+    <rect class="bar b2" x="38"  y="60" width="26" height="100"/>
+    <rect class="bar b3" x="76"  y="75" width="26" height="85"/>
+    <rect class="bar b4" x="114" y="30" width="26" height="130"/>
+    <rect class="bar b5" x="152" y="50" width="26" height="110"/>
+    <rect class="bar b6" x="190" y="10" width="26" height="150"/>
+    <line x1="-10" y1="162" x2="230" y2="162" stroke="#334155" stroke-width="2"/>
+  </g>
+</svg>
