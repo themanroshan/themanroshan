@@ -107,12 +107,6 @@ Java (DSA practice) · LangChain & RAG (basics) · Apache Airflow (concepts) · 
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=themanroshan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanroshan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 ## 🐍 Contribution snake
 
 <p align="center">
