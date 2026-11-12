@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="GitHub stats">
-<style>
-.h{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#7dd3fc}
-.l{font:400 14px 'Segoe UI',Arial,sans-serif;fill:#cbd5e1}
-.v{font:700 14px 'Segoe UI',Arial,sans-serif;fill:#f8fafc}
-.fade{animation:f 1s ease-out both}@keyframes f{from{opacity:0}to{opacity:1}}
-</style><rect width="420" height="190" rx="14" fill="#1a1b27" stroke="#2f334d"/>
-<g class="fade"><text x="24" y="38" class="h">themanroshan's GitHub Stats</text><text x="24" y="76" class="l">Public repositories</text><text x="396" y="76" text-anchor="end" class="v">10</text><text x="24" y="104" class="l">Total stars earned</text><text x="396" y="104" text-anchor="end" class="v">2</text><text x="24" y="132" class="l">Total forks</text><text x="396" y="132" text-anchor="end" class="v">0</text><text x="24" y="160" class="l">Followers</text><text x="396" y="160" text-anchor="end" class="v">0</text></g></svg>
